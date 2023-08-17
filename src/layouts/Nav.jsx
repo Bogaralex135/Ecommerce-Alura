@@ -4,8 +4,8 @@ import Login from '../components/Login'
 import Layout from './Layout'
 export function Nav() {
   return (
-    <Layout>
-      <nav className='bg-white flex justify-between '>
+    <Layout bg='primary'>
+      <nav className='flex justify-between '>
         <Logo />
         <SearchBar />
         <Login />

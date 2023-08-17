@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Lenovo ThinkPad T480s",
+    "brand": "Lenovo",
+    "price": 5899,
+    "stock": 120,
+    "description": "14 FHD, Core i5-8350U 1,7 GHz, 16 GB de RAM, 512 GB M.2-NVMe, Windows 10 Pro 64 bits, CAM, sin Tacto ",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/61r4NcXbqAL._AC_SX679_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 2,
+    "name": "Nueva laptop Dell Inspiron 15 3511",
+    "brand": "dell",
+    "price": 13101,
+    "stock": 433,
+    "description": "pantalla táctil FHD de 15,6, Intel Core i5-1035G1, 32 GB RAM, 1 TB PCIe NVMe M.2 SSD, lector de tarjetas SD, cámara web, HDMI, WiFi, Windows 11 Home, negro",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/71lsq9TesJL._AC_SX679_.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 3,
+    "name": "Asus Chromebook CX1-15.6",
+    "brand": "Asus",
+    "price": 6252,
+    "stock": 433,
+    "description": "15.6 / CX1500CKA-BR0102 / Intel Celeron / 8GB en RAM / 128GB + 100GB Drive/Plata/Teclado en español",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/61T-p1ttSmL._AC_SX679_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Lenovo Ideapad 1 portátil de 15.6",
+    "brand": "Lenovo",
+    "price": 6999,
+    "stock": 532,
+    "description": "Lenovo Ideapad 1 portátil de 15.6 pulgadas, procesador AMD de doble núcleo, visualización antirreflejos HD de 15.6 pulgadas, Wi-Fi 6 y Bluetooth 5.0, HDMI, Windows 11 Home en modo S (12 GB de RAM | 256 GB SSD)",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/71CNZyke1EL._AC_SX679_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "HUAWEI MateBook D 15 Ryzen 7 5700U",
+    "brand": "HUAWEI",
+    "price": 15999,
+    "stock": 543,
+    "description": "HUAWEI MateBook D 15 Ryzen 7 5700U 16GB + 512, 15.6 Pulgadas, Fast Charging 65W, Windows 11 Home",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/71kvpcfu5KL._AC_SX679_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "name": "HP Elitebook 840 G3 14",
+    "brand": "HP",
+    "price": 4150,
+    "stock": 512,
+    "description": "HP Elitebook 840 G3 14 HD, Core i5-6300U 2,4 GHz, 16 GB de RAM, Disco Duro de 1 TB, Cámara de Red, Windows 10 Pro 64 bits",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/6107yDsOAdL._AC_SX679_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 7,
+    "name": "HUAWEI MateBook D 14 2023",
+    "brand": "HUAWEI",
+    "price": 13399,
+    "stock": 333,
+    "description": "HUAWEI MateBook D 14 2023  Laptop de 14” FHD, Procesador 11.5th Intel Core i5, 8GB RAM + 512GB SSD, Windows 11, con Fast Charging de 65 W, Botón de Huella Digital, Gris, Teclado en español",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/61Zj88xI2PL._AC_SX679_.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "name": "Asus Portátil Vivobook Go 15",
+    "brand": "Asus",
+    "price": 9941,
+    "stock": 243,
+    "description": "Asus Portátil Vivobook Go 15 2023, visualización FHD de 15.6 Pulgadas, procesador AMD Ryzen 5 7520U, 8 GB de RAM, 512 GB SSD, Windows 11 Home, Negro Mixto, E1504FA-AS52",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/71tj1W5NoQL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "name": "HP Laptop 15-fd0000la",
+    "brand": "HP",
+    "price": 10299,
+    "stock": 433,
+    "description": "HP Laptop 15-fd0000la, Windows 11 Home, Intel Core i3, 8GB RAM, 512GB SSD, FHD 15.6, Teclado en Español, Garantía México, Azul Lunar",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/61YyKJCeYfL._AC_SX679_.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Dell Laptop Inspiron 7000 2 en 1",
+    "brand": "dell",
+    "price": 20927,
+    "stock": 200,
+    "description": "Dell Laptop Inspiron 7000 2 en 1, visualización táctil FHD+ de 14 pulgadas, AMD Ryzen 7 5825U, 32 GB DDR4 RAM, SSD de 2 TB, cámara web FHD, HDMI, KB retroiluminado, lector FP, Wi-Fi 6, Windows 11 Home, Pebble Green",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/71VYo9X0+qL._AC_SX679_.jpg",
+    "rating": 4.2
+  }
+]

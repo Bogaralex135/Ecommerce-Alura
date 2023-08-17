@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "JBL Audífonos In Ear C100SI - Blanco",
+    "brand": "JBL",
+    "price": 229,
+    "stock": 23,
+    "description": "Los audífonos C100SI son ligeros y dinámicos. Sus potentes Drivers de 9mm proporcionan una respuesta de bajos que se siente en todo el cuerpo. Ligeros y cómodos para usarlos todo el día. Su micrófono con control remoto universal permite hablar y gestionar llamadas.",
+    "category": "audifonos",
+    "image": "https://m.media-amazon.com/images/I/51o8A6J6UbL._AC_SX679_.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 2,
+    "name": "Sony Audífonos inalámbricos on-Ear WH-CH520",
+    "brand": "Sony",
+    "price": 967,
+    "stock": 43,
+    "description": "Una experiencia de escucha diseñada para ti. Digital Sound Enhancement Engine (DSEE) restaura los tonos armónicos y la intensidad que se pierden durante la compresión normal de la música, para ofrecer un rendimiento más auténtico. Incluso puedes adaptar la música a tu gusto con la configuración de ecualización de la app Sony | Headphones Connect para disfrutar de una experiencia de escucha personalizada.",
+    "category": "audifonos",
+    "image": "https://m.media-amazon.com/images/I/41ETuD2aZRL._AC_SX679_.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Xiaomi 36103 Audífonos Inalámbricos Redmi Buds 3 Lite",
+    "brand": "Xiaomi",
+    "price": 407,
+    "stock": 234,
+    "description": "Gracias a que cuenta con ANC integrado, es capaz de reducir al máximo el ruido exterior optimizando así la calidad del sonido. La batería dispone de una batería de larga duración en una sola carga para disfrutar de ellos al máximo. Además cuenta con estuche de carga USB C",
+    "category": "audifonos",
+    "image": "https://m.media-amazon.com/images/I/51HhYD53fML._AC_SX522_.jpg",
+    "rating": 3.7
+  },
+  {
+    "id": 4,
+    "name": "SKULLCANDY Audifonos Inalámbrico Indy EVO",
+    "brand": "SKULLCANDY",
+    "price": 559,
+    "stock": 132,
+    "description": "Los audífonos inalámbricos Skullcandy Indy Evo son unos auriculares que ofrecen una experiencia de audio inalámbrica y sin cables. Están diseñados para brindar comodidad y conveniencia, permitiéndote disfrutar de tu música favorita sin la restricción de cables. Estos audífonos cuentan con tecnología Bluetooth, lo que te permite conectarlos de forma inalámbrica a tu dispositivo móvil u otro dispositivo compatible. Esto significa que no tendrás que lidiar con cables enredados y podrás moverte libremente mientras escuchas música, realizas llamadas o ves contenido multimedia. Los Skullcandy Indy Evo también ofrecen un sonido de alta calidad con un perfil de audio equilibrado y bien definido. Puedes disfrutar de graves profundos, medios claros y agudos nítidos para una experiencia auditiva envolvente. Además, estos audífonos cuentan con controles táctiles intuitivos en cada auricular, lo que te permite controlar la reproducción de música, ajustar el volumen y responder o finalizar llamadas sin tener que sacar el teléfono de tu bolsillo. Con una duración de batería de hasta 30 horas (incluyendo el estuche de carga), los Skullcandy Indy Evo te permiten disfrutar de tu música durante todo el día sin problemas. ",
+    "category": "audifonos",
+    "image": "https://m.media-amazon.com/images/I/71H2vRHdp5L._AC_SX679_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy Buds Pro 2",
+    "brand": "Samsung",
+    "price": 2218,
+    "stock": 43,
+    "description": "Cancelación activa de ruido: Reduce el ruido no deseado con Galaxy Buds2 Pro; utilizan cancelación activa inteligente de ruido silenciar incluso los sonidos exteriores más fuertes; sintoniza lo que más importa sin moler por los sonidos diaídos a tu alrededor",
+    "category": "audifonos",
+    "image": "https://m.media-amazon.com/images/I/61iqFkdt1dL._AC_SX522_.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "name": "Sony WF-C500",
+    "brand": "Sony",
+    "price": 1337,
+    "stock": 123,
+    "description": "Cancelación activa de ruido: Reduce el ruido no deseado con Galaxy Buds2 Pro; utilizan cancelación activa inteligente de ruido silenciar incluso los sonidos exteriores más fuertes; sintoniza lo que más importa sin moler por los sonidos diaídos a tu alrededor",
+    "category": "audifonos",
+    "image": "https://m.media-amazon.com/images/I/41Qt40HNjwL._AC_SX522_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "name": "JBL Tune 510BT",
+    "brand": "JBL",
+    "price": 749,
+    "stock": 432,
+    "description": "Los auriculares inalámbricos Tune 510BT cuentan con el reconocido sonido JBL Pure Bass, que se puede encontrar en los lugares más famosos de todo el mundo.",
+    "category": "audifonos",
+    "image": "https://m.media-amazon.com/images/I/61f6S+WtUKL._AC_SX522_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 8,
+    "name": "SKULLCANDY - Auriculares intraurales inalámbricos Sesh",
+    "brand": "SKULLCANDY",
+    "price": 493,
+    "stock": 657,
+    "description": "Los auriculares intraurales inalámbricos Skullcandy Sesh son unos auriculares compactos y portátiles que ofrecen una experiencia de audio inalámbrica. Son fabricados por Skullcandy, una reconocida marca especializada en productos de audio. Estos auriculares son ideales para quienes buscan una opción más pequeña y discreta. Son inalámbricos y se conectan a través de tecnología Bluetooth, permitiéndote disfrutar de tu música sin cables enredados. Además, cuentan con un diseño intrauricular que se ajusta cómodamente en el oído, proporcionando un ajuste seguro y estable. Los Skullcandy Sesh ofrecen un sonido de calidad con un enfoque en los bajos, lo que te permite disfrutar de graves potentes y profundos. También cuentan con controles táctiles intuitivos en los auriculares, lo que te permite controlar fácilmente la reproducción de música y las llamadas sin tener que sacar tu teléfono.",
+    "category": "audifonos",
+    "image": "https://m.media-amazon.com/images/I/71e5bSW1U9L._AC_SX522_.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "name": "Xiaomi Redmi Airdots",
+    "brand": "Xiaomi",
+    "price": 295,
+    "stock": 43,
+    "description": "Tecnología True Wireless, Bluetooth 5.0, para una conexión super rápida.. Distancia de 10 metros del dispositivo emisor.",
+    "category": "audifonos",
+    "image": "https://m.media-amazon.com/images/I/61vHOrW5NkL._AC_SX522_.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": 10,
+    "name": "SAMSUNG In Ear Headphones USB C",
+    "brand": "Samsung",
+    "price": 549,
+    "stock": 43,
+    "description": "Los auriculares in-ear Samsung USB C son unos auriculares diseñados para ser compatibles con dispositivos que tienen un puerto de carga USB-C, como algunos modelos de teléfonos inteligentes Samsung y otros dispositivos electrónicos.Estos auriculares ofrecen una experiencia de audio de alta calidad con un diseño compacto y ligero que se adapta cómodamente al oído. Tienen drivers de alta fidelidad que proporcionan un sonido claro y balanceado, lo que te permite disfrutar de tu música, películas o llamadas con una calidad de sonido inmersiva.Además, los auriculares Samsung USB-C cuentan con un control remoto integrado que te permite ajustar el volumen, reproducir o pausar la música, y responder o finalizar llamadas sin tener que sacar el dispositivo de tu bolsillo. También incluyen un micrófono incorporado para realizar llamadas con manos libres. Estos auriculares son una opción conveniente y de calidad para aquellos que buscan una experiencia de audio cómoda y versátil en dispositivos con puerto USB-C.",
+    "category": "audifonos",
+    "image": "https://m.media-amazon.com/images/I/51IZhZbScWL._AC_SX679_.jpg",
+    "rating": 3
+  }
+]

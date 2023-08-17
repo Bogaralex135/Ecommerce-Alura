@@ -1,9 +1,11 @@
 import Hero from '../components/Hero'
+import Categories from '../components/Categories'
 export function Home() {
   return (
-    <main>
+    <>
       <Hero />
-    </main>
+      <Categories />
+    </>
   )
 }
 
